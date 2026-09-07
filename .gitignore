@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+
+# Local development files
+vendor/
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
