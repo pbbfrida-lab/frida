@@ -1,6 +1,6 @@
 <?php
 include 'config.php';
-
+//test frida
 if (isset($_GET['id'])) {
     $id = $_GET['id'];
     $query = "SELECT * FROM siswa WHERE id = $id";
